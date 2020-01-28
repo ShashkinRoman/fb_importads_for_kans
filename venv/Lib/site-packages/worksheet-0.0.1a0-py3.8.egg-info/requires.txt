@@ -1,0 +1,4 @@
+SQLAlchemy
+tabulate
+Click
+xdg
